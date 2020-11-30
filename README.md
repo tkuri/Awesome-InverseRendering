@@ -14,12 +14,13 @@
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2017|CVPR|[Deep Outdoor Illumination Estimation](https://arxiv.org/abs/1611.06403)|[Dataset](https://vision.cs.princeton.edu/projects/2012/SUN360/data/)|
-|2017|SIGGRAPH ASIA|[Learning to Predict Indoor Illumination from a Single Image](https://arxiv.org/abs/1704.00090)||
+|2017|SIGGRAPH ASIA|[Learning to Predict Indoor Illumination from a Single Image](https://arxiv.org/abs/1704.00090)|[Dataset](http://indoor.hdrdb.com/)|
+|2018|3DV|[Learning to Estimate Indoor Lighting from 3D Objects](https://arxiv.org/abs/1806.03994)|[Code & Dataset](https://github.com/weberhen/learning_indoor_lighting)|
 
 ## Intrinsic Estimation
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
-|2015|Eurographics2017|[Intrinsic Decompositions for Image Editing](Eurographics2017))||
+|2015|Eurographics|[Intrinsic Decompositions for Image Editing](Eurographics2017))||
 ## Dataset
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
