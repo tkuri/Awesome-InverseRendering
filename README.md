@@ -6,7 +6,7 @@
 
 ## Table of contents
 
-- Illumination Estimation
+- [Illumination Estimation](#illumination_estimation)
 - Intrinsic Estimation
 - Dataset
 
