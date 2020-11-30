@@ -32,6 +32,11 @@
 |2018|CVPR|[Intrinsic Image Transformation via Scale Space Decomposition](http://rin.csail.mit.edu/)|[Code](https://github.com/liygcheng/PyrResNet) [Dataset](http://sintel.is.tue.mpg.de/)|
 |2018|CVPR|[Revisiting Deep Intrinsic Image Decompositions](https://arxiv.org/abs/1701.02965)|[Code](https://github.com/fqnchina/IntrinsicImage)|
 |2018|CVPR|[Learning Intrinsic Image Decomposition from Watching the World](https://research.cs.cornell.edu/bigtime/)|[Code](https://github.com/zhengqili/unsupervised-learning-intrinsic-images) [Dataset](https://research.cs.cornell.edu/bigtime/)|
+|2018|Pacific Graphics|[Unsupervised Deep Single-Image Intrinsic Decomposition using Illumination-Varying Image Sequences](https://arxiv.org/abs/1803.00805)|[Code](https://github.com/kvanhoey/UnsupervisedIntrinsicDecomposition)|
+|2018|ECCV|[CGIntrinsics: Better Intrinsic Image Decomposition through Physically-Based Rendering](https://research.cs.cornell.edu/cgintrinsics/)|[Code](https://github.com/zhengqili/CGIntrinsics) [Dataset](https://research.cs.cornell.edu/cgintrinsics/)|
+|2018|ECCV|[Single Image Intrinsic Decomposition without a Single Intrinsic Image](https://openaccess.thecvf.com/content_ECCV_2018/html/Wei-Chiu_Single_Image_Intrinsic_ECCV_2018_paper.html)||
+
+
 
 ## Dataset
 |Year|Pub|Paper|Repo|
