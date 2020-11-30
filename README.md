@@ -6,8 +6,8 @@
 
 ## Table of contents
 
-- [Illumination Estimation](#illumination_estimation)
-- [Intrinsic Estimation](#intrinsic_estimation)
+- [Illumination Estimation](#illumination-estimation)
+- [Intrinsic Estimation](#intrinsic-estimation)
 - [Dataset](#dataset)
 
 ## Illumination Estimation
