@@ -27,7 +27,12 @@
 ## Intrinsic Estimation
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
-|2015|Eurographics|[Intrinsic Decompositions for Image Editing](Eurographics2017)||
+|2017|Eurographics|[Intrinsic Decompositions for Image Editing](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/)|[Code](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/supp_materials/code/) [Dataset](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/ground_truth/)|
+|2017|NeurIPS|[Self-Supervised Intrinsic Image Decomposition](http://rin.csail.mit.edu/)|[Code](https://github.com/JannerM/intrinsics-network) [Dataset](https://www.shapenet.org/)|
+|2018|CVPR|[Intrinsic Image Transformation via Scale Space Decomposition](http://rin.csail.mit.edu/)|[Code](https://github.com/liygcheng/PyrResNet) [Dataset](http://sintel.is.tue.mpg.de/)|
+|2018|CVPR|[Revisiting Deep Intrinsic Image Decompositions](https://arxiv.org/abs/1701.02965)|[Code](https://github.com/fqnchina/IntrinsicImage)|
+|2018|CVPR|[Learning Intrinsic Image Decomposition from Watching the World](https://research.cs.cornell.edu/bigtime/)|[Code](https://github.com/zhengqili/unsupervised-learning-intrinsic-images) [Dataset](https://research.cs.cornell.edu/bigtime/)|
+
 ## Dataset
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
