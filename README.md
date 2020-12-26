@@ -1,14 +1,13 @@
 <!--A curated list of resources for Image and Video Deblurring-->
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h3 align="center">Inverse Rendering (Deep Learning Based)</h3>
+  <h3 align="center">Inverse Rendering</h3>
 </p>
 
 ## Table of contents
 
 - [Illumination Estimation](#illumination-estimation)
 - [Intrinsic Decomposition](#intrinsic-decomposition)
-- [BRDF Parameter Estimation](#brdf-parameter-estimation)
 - [Dataset](#dataset)
 
 ## Illumination Estimation
