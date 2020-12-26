@@ -8,6 +8,7 @@
 
 - [Illumination Estimation](#illumination-estimation)
 - [Intrinsic Decomposition](#intrinsic-decomposition)
+- [BRDF Parameter Estimation](#brdf-parameter-estimation)
 - [Dataset](#dataset)
 
 ## Illumination Estimation
