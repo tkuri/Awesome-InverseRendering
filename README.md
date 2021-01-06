@@ -1,7 +1,7 @@
 <!--A curated list of resources for Image and Video Deblurring-->
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h3 align="center">Inverse Rendering</h3>
+  <h3 align="center">Inverse Rendering (DL-Based)</h3>
 </p>
 
 ## Table of contents
