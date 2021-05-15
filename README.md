@@ -29,8 +29,8 @@
 ## Intrinsic Decomposition (non-DL)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
-|2021|SIGGRAPH|[Real-time Global Illumination Decomposition of Videos](https://zollhoefer.com/papers/arXiv19_GD/page.html)||
 |2016|SIGGRAPH|[Live Intrinsic Video](https://gvv.mpi-inf.mpg.de/projects/LiveIntrinsicVideo/)||
+|2021|SIGGRAPH|[Real-time Global Illumination Decomposition of Videos](https://zollhoefer.com/papers/arXiv19_GD/page.html)||
 
 ## Intrinsic Decomposition (DL)
 |Year|Pub|Paper|Repo|
