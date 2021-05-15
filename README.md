@@ -1,16 +1,17 @@
 <!--A curated list of resources for Image and Video Deblurring-->
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h3 align="center">Inverse Rendering (DL-Based)</h3>
+  <h3 align="center">Inverse Rendering</h3>
 </p>
 
 ## Table of contents
 
-- [Illumination Estimation](#illumination-estimation)
-- [Intrinsic Decomposition](#intrinsic-decomposition)
+- [Illumination Estimation (DL)](#illumination-estimation-dl)
+- [Intrinsic Decomposition (non-DL)](#intrinsic-decomposition-non-dl)
+- [Intrinsic Decomposition (DL)](#intrinsic-decomposition-dl)
 - [Dataset](#dataset)
 
-## Illumination Estimation (DL-Based)
+## Illumination Estimation (DL)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2017|CVPR|[Deep Outdoor Illumination Estimation](https://arxiv.org/abs/1611.06403)|[Dataset](https://vision.cs.princeton.edu/projects/2012/SUN360/data/)|
@@ -25,7 +26,12 @@
 |2020|CVPR|[Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination](https://people.eecs.berkeley.edu/~pratul/lighthouse/)|[Code](https://github.com/pratulsrinivasan/lighthouse) / [Dataset](https://interiornet.org/)|
 |2020|CVPR|[Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/)|[Code](https://github.com/lzqsd/InverseRenderingOfIndoorScene) / [Dataset](https://ucsd-openrooms.github.io/)|
 
-## Intrinsic Decomposition (DL-Based)
+## Intrinsic Decomposition (non-DL)
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2021|SIGGRAPH|[Real-time Global Illumination Decomposition of Videos](https://zollhoefer.com/papers/arXiv19_GD/page.html) ||
+
+## Intrinsic Decomposition (DL)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2017|Eurographics|[Intrinsic Decompositions for Image Editing](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/)|[Code](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/supp_materials/code/) [Dataset](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/ground_truth/)|
