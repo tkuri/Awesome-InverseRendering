@@ -10,7 +10,7 @@
 - [Intrinsic Decomposition](#intrinsic-decomposition)
 - [Dataset](#dataset)
 
-## Illumination Estimation
+## Illumination Estimation (DL-Based)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2017|CVPR|[Deep Outdoor Illumination Estimation](https://arxiv.org/abs/1611.06403)|[Dataset](https://vision.cs.princeton.edu/projects/2012/SUN360/data/)|
@@ -25,7 +25,7 @@
 |2020|CVPR|[Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination](https://people.eecs.berkeley.edu/~pratul/lighthouse/)|[Code](https://github.com/pratulsrinivasan/lighthouse) / [Dataset](https://interiornet.org/)|
 |2020|CVPR|[Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/)|[Code](https://github.com/lzqsd/InverseRenderingOfIndoorScene) / [Dataset](https://ucsd-openrooms.github.io/)|
 
-## Intrinsic Decomposition
+## Intrinsic Decomposition (DL-Based)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2017|Eurographics|[Intrinsic Decompositions for Image Editing](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/)|[Code](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/supp_materials/code/) [Dataset](https://perso.liris.cnrs.fr/nicolas.bonneel/intrinsicstar/ground_truth/)|
