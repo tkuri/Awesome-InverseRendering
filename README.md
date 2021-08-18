@@ -53,6 +53,8 @@
 
 ## SVBRDF Estimation (non-DL)
 ## SVBRDF Estimation (DL)
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
 |2021|SIGGRAPH|[Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition](https://sites.cs.ucsb.edu/~lingqi/#publications)||
 
 
