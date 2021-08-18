@@ -9,6 +9,8 @@
 - [Illumination Estimation (DL)](#illumination-estimation-dl)
 - [Intrinsic Decomposition (non-DL)](#intrinsic-decomposition-non-dl)
 - [Intrinsic Decomposition (DL)](#intrinsic-decomposition-dl)
+- [SVBRDF Estimation (non-DL)](#svbrdf-estimation-non-dl)
+- [SVBRDF Estimation (DL)](#svbrdf-estimation-dl)
 - [Dataset](#dataset)
 
 ## Illumination Estimation (DL)
@@ -48,6 +50,10 @@
 |2019|ICCV|[Neural Inverse Rendering of an Indoor Scene From a Single Image](https://senguptaumd.github.io/Neural-Inverse-Rendering/)||
 |2019|ICCV|[GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_GLoSH_Global-Local_Spherical_Harmonics_for_Intrinsic_Image_Decomposition_ICCV_2019_paper.html)||
 |2020|CVPR|[Unsupervised Learning for Intrinsic Image Decomposition from a Single Image](https://arxiv.org/abs/1911.09930)||
+
+## SVBRDF Estimation (non-DL)
+## SVBRDF Estimation (DL)
+|2021|SIGGRAPH|[Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition](https://sites.cs.ucsb.edu/~lingqi/#publications)||
 
 
 ## Dataset
