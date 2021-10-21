@@ -52,6 +52,9 @@
 |2020|CVPR|[Unsupervised Learning for Intrinsic Image Decomposition from a Single Image](https://arxiv.org/abs/1911.09930)||
 
 ## SVBRDF Estimation (non-DL)
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2015|SIGGRAPH|[Two-Shot SVBRDF Capture for Stationary Materials](https://dl.acm.org/doi/10.1145/2766967)|[Code & Dataset](https://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/)|
 ## SVBRDF Estimation (DL)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
