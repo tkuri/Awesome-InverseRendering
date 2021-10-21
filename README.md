@@ -55,6 +55,7 @@
 ## SVBRDF Estimation (DL)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2018|SIGGRAPH|[Single-Image SVBRDF Capture with a Rendering-Aware Deep Network](https://arxiv.org/abs/1810.09718)|[Code & Dataset](https://repo-sam.inria.fr/fungraph/deep-materials/)|
 |2021|SIGGRAPH|[Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition](https://sites.cs.ucsb.edu/~lingqi/#publications)||
 
 
