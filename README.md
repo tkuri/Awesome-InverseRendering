@@ -60,7 +60,7 @@
 |2015|SIGGRAPH|[Two-Shot SVBRDF Capture for Stationary Materials](https://dl.acm.org/doi/10.1145/2766967)|[Code & Dataset](https://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/)|
 |2016|SIGGRAPH ASIA|[Simultaneous Acquisition of Microscale Reflectance and Normals](http://vclab.kaist.ac.kr/siggraphasia2016p2/index.html)||
 |2017|SIGGRAPH ASIA|[Polarization imaging reflectometry in the wild](https://wp.doc.ic.ac.uk/rgi/project/polarization-imaging-reflectometry-in-the-wild/)||
-|2021|Eurographics|[Polarization imaging reflectometry in the wild](http://vclab.kaist.ac.kr/cgf2020/index.html)||
+|2021|Eurographics|[Progressive Acquisition of SVBRDF and Shape in Motion](http://vclab.kaist.ac.kr/cgf2020/index.html)||
 ## SVBRDF Estimation (DL)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
