@@ -33,6 +33,7 @@
 |:---:|:---:|:---:|:---:|
 |2016|SIGGRAPH|[Live Intrinsic Video](https://gvv.mpi-inf.mpg.de/projects/LiveIntrinsicVideo/)||
 |2021|SIGGRAPH|[Real-time Global Illumination Decomposition of Videos](https://zollhoefer.com/papers/arXiv19_GD/page.html)||
+|2021|Eurographics|[Interactive Photo Editing on Smartphones via Intrinsic Decomposition](https://mdvmp.hpi3d.de/ipesid/other/ipesid_eg2021_main_compressed.pdf)||
 
 ## Intrinsic Decomposition (DL)
 |Year|Pub|Paper|Repo|
