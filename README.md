@@ -57,6 +57,7 @@
 |2020|CVPR|[Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image](http://cseweb.ucsd.edu/~viscomp/projects/CVPR20InverseIndoor/)|[Code](https://github.com/lzqsd/InverseRenderingOfIndoorScene) / [Dataset](https://ucsd-openrooms.github.io/)|
 |2021|CVPR|[PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting](https://kai-46.github.io/PhySG-website/) | [Code](https://github.com/Kai-46/PhySG)|
 |2021|ICCV|[Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting](https://nv-tlabs.github.io/inverse-rendering-3d-lighting/) ||
+|2021|AAAI|[EMLight: Lighting Estimation via Spherical Distribution Approximation](https://arxiv.org/abs/2012.11116) ||
 
 ## Inverse Material (non-DL)
 |Year|Pub|Paper|Repo|
