@@ -89,6 +89,7 @@
 ## Portrait Relighting (DL)
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2020|CVPR|[Learning Physics-Guided Face Relighting Under Directional Light](https://openaccess.thecvf.com/content_CVPR_2020/html/Nestmeyer_Learning_Physics-Guided_Face_Relighting_Under_Directional_Light_CVPR_2020_paper.html)||
 |2020|TOG|[Single Image Portrait Relighting via Explicit Multiple Reflectance Channel Modeling](https://dl.acm.org/doi/abs/10.1145/3414685.3417824)|[Dataset](https://sireer.github.io/projects/FLM_project/)|
 |2021|SIGGRAPH|[Learning to Relight Portraits for Background Replacement](https://augmentedperception.github.io/total_relighting/)||
 |2021|ICCV|[Neural Video Portrait Relighting in Real-time via Consistency Modeling](https://zhanglongwen.com/projects/nvpr/)|[Code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) / [Dataset](https://zhanglongwen.com/projects/nvpr/dataset.html)|
