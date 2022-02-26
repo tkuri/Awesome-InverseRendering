@@ -15,6 +15,7 @@
 - [Inverse Lighting (DL)](#inverse-lighting-dl)
 - [Inverse Material (non-DL)](#inverse-material-non-dl)
 - [Inverse Material (DL)](#inverse-material-dl)
+- [Portrait Relighting (DL)](#portrait-relighting-dl)
 - [Dataset](#dataset)
 
 ## Intrinsic Decomposition (non-DL)
@@ -84,6 +85,11 @@
 |2021|SIGGRAPH|[Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition](https://sites.cs.ucsb.edu/~lingqi/publications/paper_highlight.pdf)||
 |2021|ICCV|[SurfaceNet: Adversarial SVBRDF Estimation from a Single Image](https://openaccess.thecvf.com/content/ICCV2021/html/Vecchio_SurfaceNet_Adversarial_SVBRDF_Estimation_From_a_Single_Image_ICCV_2021_paper.html)|[Code](https://github.com/perceivelab/surfacenet)|
 |2021|SIGGRAPH ASIA|[Generative Modelling of BRDF Textures from Flash Images](https://henzler.github.io/publication/neuralmaterial/)|[Code](https://github.com/henzler/neuralmaterial)|
+
+## Portlait Relighting (DL)
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2021|ICCV|[Neural Video Portrait Relighting in Real-time via Consistency Modeling](https://zhanglongwen.com/projects/nvpr/)|[Code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)&[Dataset](https://zhanglongwen.com/projects/nvpr/dataset.html)|
 
 
 ## Dataset
