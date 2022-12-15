@@ -90,7 +90,7 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |2021|AAAI|[EMLight: Lighting Estimation via Spherical Distribution Approximation](https://arxiv.org/abs/2012.11116) ||&#10003;||
 |2021|EGSR|[Material and Lighting Reconstruction for Complex Indoor Scenes with Texture-space Differentiable Rendering](http://rgl.epfl.ch/publications/NimierDavid2021Material) ||&#10003;||
 |2021|SIGGRAPH ASIA|[Generative Modelling of BRDF Textures from Flash Images](https://henzler.github.io/publication/neuralmaterial/)|[Code](https://github.com/henzler/neuralmaterial)|||&#10003;|
-|2022|CVPR|[IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes](https://arxiv.org/abs/2206.08423)| [Code](https://github.com/ViLab-UCSD/IRISformer)|&#10003;||
+|2022|CVPR|[IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes](https://arxiv.org/abs/2206.08423)| [Code](https://github.com/ViLab-UCSD/IRISformer)|&#10003;|&#10003;|&#10003;|
 
 
 ## Portrait Relighting (DL)
