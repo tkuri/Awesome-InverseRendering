@@ -43,6 +43,7 @@
 |2022|CVPR|[PIE-Net: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition](https://openaccess.thecvf.com/content/CVPR2022/papers/Das_PIE-Net_Photometric_Invariant_Edge_Guided_Network_for_Intrinsic_Image_Decomposition_CVPR_2022_paper.pdf)|[Code](https://github.com/Morpheus3000/PIE-Net)|
 
 ## Inverse Rendering (non-DL)
+L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |Year|Pub|Paper|Repo|L|G|M|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2010|SIGGRAPH|[Manifold bootstrapping for SVBRDF capture](https://dl.acm.org/doi/10.1145/1833349.1778835)||||&#10003;|
@@ -56,6 +57,7 @@
 |2021|Eurographics|[Progressive Acquisition of SVBRDF and Shape in Motion](http://vclab.kaist.ac.kr/cgf2020/index.html)||||&#10003;|
 
 ## Inverse Rendering (DL)
+L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |Year|Pub|Paper|Repo|L|G|M|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2016|SIGGRAPH|[Reflectance Modeling by Neural Texture Synthesis](https://mediatech.aalto.fi/publications/graphics/NeuralSVBRDF/)||||&#10003;|
