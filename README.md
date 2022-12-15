@@ -52,9 +52,10 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |2015|CGF|[Mobile Surface Reflectometry](https://wp.doc.ic.ac.uk/rgi/project/mobile-surface-reflectometry/)||||&#10003;|
 |2015|SIGGRAPH|[Two-Shot SVBRDF Capture for Stationary Materials](https://dl.acm.org/doi/10.1145/2766967)|[Code & Dataset](https://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/)|||&#10003;|
 |2016|SIGGRAPH ASIA|[Simultaneous Acquisition of Microscale Reflectance and Normals](http://vclab.kaist.ac.kr/siggraphasia2016p2/index.html)||||&#10003;|
-|2016|SIGGRAPH ASIA|[Recovering Shape and Spatially-Varying Surface Reflectance under Unknown Illumination](https://www.cs.wm.edu/~ppeers/publications/Xia2016RSS/Xia_SIGGRAPHAsia2016.pdf)||||&#10003;|
-|2017|SIGGRAPH ASIA|[Polarization imaging reflectometry in the wild](https://wp.doc.ic.ac.uk/rgi/project/polarization-imaging-reflectometry-in-the-wild/)||||&#10003;|
-|2021|Eurographics|[Progressive Acquisition of SVBRDF and Shape in Motion](http://vclab.kaist.ac.kr/cgf2020/index.html)||||&#10003;|
+|2016|SIGGRAPH ASIA|[Recovering Shape and Spatially-Varying Surface Reflectance under Unknown Illumination](https://www.cs.wm.edu/~ppeers/publications/Xia2016RSS/Xia_SIGGRAPHAsia2016.pdf)||&#10003;|&#10003;|&#10003;|
+|2017|SIGGRAPH ASIA|[Polarization imaging reflectometry in the wild](https://wp.doc.ic.ac.uk/rgi/project/polarization-imaging-reflectometry-in-the-wild/)|||&#10003;|&#10003;|
+|2018|SIGGRAPH ASIA|[Simultaneous Acquisition of Polarimetric SVBRDF and Normals](http://vclab.kaist.ac.kr/siggraphasia2018p2/index.html)|||&#10003;|&#10003;|
+|2021|Eurographics|[Progressive Acquisition of SVBRDF and Shape in Motion](http://vclab.kaist.ac.kr/cgf2020/index.html)|||&#10003;|&#10003;|
 
 ## Inverse Rendering (DL)
 L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
