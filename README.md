@@ -80,7 +80,6 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |2020|ECCV|[Object-Based Illumination Estimation with Rendering-Aware Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600375.pdf)||&#10003;||
 |2020|ECCV|[Single-Shot Neural Relighting and SVBRDF Estimation](https://cseweb.ucsd.edu/~viscomp/projects/ECCV20NeuralRelighting/)|[Code](https://github.com/ssangx/NeuralRelighting) / [Dataset](https://cseweb.ucsd.edu/~viscomp/projects/ECCV20NeuralRelighting/)|||&#10003;|
 |2020|SIGGRAPH ASIA|[MaterialGAN: Reflectance Capture using a Generative SVBRDF Model](https://shuangz.com/projects/materialgan-sa20/)|[Code](https://github.com/tflsguoyu/materialgan)|||&#10003;|
-|2021|SIGGRAPH|[Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition](https://sites.cs.ucsb.edu/~lingqi/#publications)||||&#10003;|
 |2021|SIGGRAPH|[Highlight-Aware Two-Stream Network for Single-Image SVBRDF Acquisition](https://sites.cs.ucsb.edu/~lingqi/publications/paper_highlight.pdf)||||&#10003;|
 |2021|CVPR|[PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting](https://kai-46.github.io/PhySG-website/) | [Code](https://github.com/Kai-46/PhySG)|&#10003;||
 |2021|CVPR|[Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition](https://wp.doc.ic.ac.uk/rgi/project/deep-polarization-3d-imaging/)|[Dataset](https://imperialcollegelondon.app.box.com/s/bbn3t18xostco6rjzr9l7754jb2d22qi)||&#10003;|&#10003;|
