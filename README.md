@@ -46,12 +46,12 @@
 L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |Year|Pub|Paper|Repo|L|G|M|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2010|SIGGRAPH|[Manifold bootstrapping for SVBRDF capture](https://dl.acm.org/doi/10.1145/1833349.1778835)||||&#10003;|
-|2013|SIGGRAPH|[Practical SVBRDF Capture in the Frequency Domain](https://dl.acm.org/doi/10.1145/2461912.2461978)||||&#10003;|
-|2014|SIGGRAPH ASIA|[Appearance-from-Motion: Recovering Spatially Varying Surface Reflectance under Unknown Lighting](http://yuedong.shading.me/project/afm/afm.htm)||||&#10003;|
-|2015|CGF|[Mobile Surface Reflectometry](https://wp.doc.ic.ac.uk/rgi/project/mobile-surface-reflectometry/)||||&#10003;|
-|2015|SIGGRAPH|[Two-Shot SVBRDF Capture for Stationary Materials](https://dl.acm.org/doi/10.1145/2766967)|[Code & Dataset](https://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/)|||&#10003;|
-|2016|SIGGRAPH ASIA|[Simultaneous Acquisition of Microscale Reflectance and Normals](http://vclab.kaist.ac.kr/siggraphasia2016p2/index.html)||||&#10003;|
+|2010|SIGGRAPH|[Manifold bootstrapping for SVBRDF capture](https://dl.acm.org/doi/10.1145/1833349.1778835)|||&#10003;|&#10003;|
+|2013|SIGGRAPH|[Practical SVBRDF Capture in the Frequency Domain](https://dl.acm.org/doi/10.1145/2461912.2461978)|||&#10003;|&#10003;|
+|2014|SIGGRAPH ASIA|[Appearance-from-Motion: Recovering Spatially Varying Surface Reflectance under Unknown Lighting](http://yuedong.shading.me/project/afm/afm.htm)||&#10003;|&#10003;|&#10003;|
+|2015|CGF|[Mobile Surface Reflectometry](https://wp.doc.ic.ac.uk/rgi/project/mobile-surface-reflectometry/)|||&#10003;|&#10003;|
+|2015|SIGGRAPH|[Two-Shot SVBRDF Capture for Stationary Materials](https://dl.acm.org/doi/10.1145/2766967)|[Code & Dataset](https://mediatech.aalto.fi/publications/graphics/TwoShotSVBRDF/)||&#10003;|&#10003;|
+|2016|SIGGRAPH ASIA|[Simultaneous Acquisition of Microscale Reflectance and Normals](http://vclab.kaist.ac.kr/siggraphasia2016p2/index.html)|||&#10003;|&#10003;|
 |2016|SIGGRAPH ASIA|[Recovering Shape and Spatially-Varying Surface Reflectance under Unknown Illumination](https://www.cs.wm.edu/~ppeers/publications/Xia2016RSS/Xia_SIGGRAPHAsia2016.pdf)||&#10003;|&#10003;|&#10003;|
 |2017|SIGGRAPH ASIA|[Polarization imaging reflectometry in the wild](https://wp.doc.ic.ac.uk/rgi/project/polarization-imaging-reflectometry-in-the-wild/)|||&#10003;|&#10003;|
 |2018|SIGGRAPH ASIA|[Simultaneous Acquisition of Polarimetric SVBRDF and Normals](http://vclab.kaist.ac.kr/siggraphasia2018p2/index.html)|||&#10003;|&#10003;|
