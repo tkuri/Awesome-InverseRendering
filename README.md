@@ -87,7 +87,7 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |2021|ICCV|[Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting](https://nv-tlabs.github.io/inverse-rendering-3d-lighting/) ||&#10003;|&#10003;||
 |2021|ICCV|[SurfaceNet: Adversarial SVBRDF Estimation from a Single Image](https://openaccess.thecvf.com/content/ICCV2021/html/Vecchio_SurfaceNet_Adversarial_SVBRDF_Estimation_From_a_Single_Image_ICCV_2021_paper.html)|[Code](https://github.com/perceivelab/surfacenet)||&#10003;|&#10003;|
 |2021|AAAI|[EMLight: Lighting Estimation via Spherical Distribution Approximation](https://arxiv.org/abs/2012.11116) ||&#10003;||
-|2021|EGSR|[Material and Lighting Reconstruction for Complex Indoor Scenes with Texture-space Differentiable Rendering](http://rgl.epfl.ch/publications/NimierDavid2021Material) ||&#10003;||
+|2021|EGSR|[Material and Lighting Reconstruction for Complex Indoor Scenes with Texture-space Differentiable Rendering](http://rgl.epfl.ch/publications/NimierDavid2021Material) ||&#10003;||&#10003;|
 |2021|SIGGRAPH ASIA|[Generative Modelling of BRDF Textures from Flash Images](https://henzler.github.io/publication/neuralmaterial/)|[Code](https://github.com/henzler/neuralmaterial)||&#10003;|&#10003;|
 |2022|CVPR|[IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes](https://arxiv.org/abs/2206.08423)| [Code](https://github.com/ViLab-UCSD/IRISformer)|&#10003;|&#10003;|&#10003;|
 
