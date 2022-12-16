@@ -61,9 +61,9 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |Year|Pub|Paper|Repo|L|G|M|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2016|SIGGRAPH|[Reflectance Modeling by Neural Texture Synthesis](https://mediatech.aalto.fi/publications/graphics/NeuralSVBRDF/)||||&#10003;|
+|2016|SIGGRAPH|[Reflectance Modeling by Neural Texture Synthesis](https://mediatech.aalto.fi/publications/graphics/NeuralSVBRDF/)|||&#10003;|&#10003;|
 |2017|CVPR|[Deep Outdoor Illumination Estimation](https://arxiv.org/abs/1611.06403)|[Dataset](https://vision.cs.princeton.edu/projects/2012/SUN360/data/)|&#10003;||
-|2017|SIGGRAPH|[Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks](https://arxiv.org/abs/1809.00886)|[Code](https://github.com/msraig/self-augmented-net)|||&#10003;|
+|2017|SIGGRAPH|[Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks](https://arxiv.org/abs/1809.00886)|[Code](https://github.com/msraig/self-augmented-net)||&#10003;|&#10003;|
 |2017|ICCV|[Reflectance Capture using Univariate Sampling of BRDFs](https://openaccess.thecvf.com/content_iccv_2017/html/Hui_Reflectance_Capture_Using_ICCV_2017_paper.html)|||&#10003;|&#10003;|
 |2017|SIGGRAPH ASIA|[Learning to Predict Indoor Illumination from a Single Image](https://arxiv.org/abs/1704.00090)|[Dataset](http://indoor.hdrdb.com/)|&#10003;||
 |2018|SIGGRAPH|[Single-Image SVBRDF Capture with a Rendering-Aware Deep Network](https://arxiv.org/abs/1810.09718)|[Code & Dataset](https://repo-sam.inria.fr/fungraph/deep-materials/)||&#10003;|&#10003;|
