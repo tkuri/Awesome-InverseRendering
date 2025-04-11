@@ -1,5 +1,6 @@
 <!--A curated list of resources for Image and Video Deblurring-->
 <!-- PROJECT LOGO -->
+I have recently stopped updating the Inverse rendering study because it has become too voluminous.
 <p align="center">
   <h3 align="center">Intrinsic Decomposition & Inverse Rendering</h3>
 </p>
